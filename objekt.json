@@ -1,0 +1,52 @@
+{
+  "objekt":{
+    "stringtest":"einstring",
+    "integertest":123,
+    "sub":{
+      "integertest":456
+    }
+  },
+  "objekt2":{
+    "vektortest":["string1", "string2"]
+  },
+  "objekt3": {
+    "i": 123,
+    "daszweitei": [
+      456,
+      789
+    ],
+    "dasdrittei": {
+      "s1": 987,
+      "s2": 654,
+      "s3": 321
+    }
+  },
+  "objekt4":{
+    "liste":{
+      "objekt5": {
+        "i": 123,
+        "daszweitei": [
+          456,
+          789
+        ],
+        "dasdrittei": {
+          "s1": 987,
+          "s2": 654,
+          "s3": 321
+        }
+      },
+      "objekt6": {
+        "i": 123,
+        "daszweitei": [
+          456,
+          789
+        ],
+        "dasdrittei": {
+          "s1": 987,
+          "s2": 654,
+          "s3": 321
+        }
+      }
+    }
+  }
+}
